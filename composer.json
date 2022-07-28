@@ -1,0 +1,16 @@
+{
+    "name": "osvaldo_mora/falabella_code_challenge",
+    "description": "This is a fizzbuzz challenge using SOLID, testing and PSR",
+    "type": "project",
+    "require": {
+        "phpunit/php-timer": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Osvaldo Mora",
+            "email": "osvaldo.moraa@yahoo.com.mx"
+        }
+    ],
+    "minimum-stability": "dev"
+}
