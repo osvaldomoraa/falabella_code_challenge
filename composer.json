@@ -21,7 +21,7 @@
             "src"
         ],
         "psr-4": {
-            "FalabellaCodeChallenge\\": "App/"
+            "App\\": "app/"
         }
     }
 }
